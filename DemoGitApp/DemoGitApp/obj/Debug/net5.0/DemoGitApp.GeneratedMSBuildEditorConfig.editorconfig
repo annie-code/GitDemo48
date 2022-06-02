@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DemoGitApp
-build_property.ProjectDir = F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoGit\DemoGitApp\DemoGitApp\
+build_property.ProjectDir = F:\ContentDevelopment\IIHT\CTS\DN-20\Project48\GitDemo48\DemoGitApp\DemoGitApp\

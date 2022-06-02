@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ContentDevelopment\\IIHT\\CTS\\ADM22DF48\\DemoGit\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
+      "projectUniqueName": "F:\\ContentDevelopment\\IIHT\\CTS\\DN-20\\Project48\\GitDemo48\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
       "projectName": "DemoGitApp",
-      "projectPath": "F:\\ContentDevelopment\\IIHT\\CTS\\ADM22DF48\\DemoGit\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
+      "projectPath": "F:\\ContentDevelopment\\IIHT\\CTS\\DN-20\\Project48\\GitDemo48\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
       "packagesPath": "C:\\Users\\annie\\.nuget\\packages\\",
-      "outputPath": "F:\\ContentDevelopment\\IIHT\\CTS\\ADM22DF48\\DemoGit\\DemoGitApp\\DemoGitApp\\obj\\",
+      "outputPath": "F:\\ContentDevelopment\\IIHT\\CTS\\DN-20\\Project48\\GitDemo48\\DemoGitApp\\DemoGitApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
